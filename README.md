@@ -25,6 +25,8 @@ Oracle is a visual experiment built with HTML5, CSS, and Three.js. It features a
 
 ## 🇧🇷 Versão em Português
 
+Oracle é um experimento visual desenvolvido com HTML5, CSS e Three.js. Apresenta uma esfera interativa em 360° que reage dinamicamente aos movimentos do mouse. O projeto foi desenvolvido puramente como um desafio técnico para demonstrar proficiência em matemática visual, estilização avançada e performance no ecossistema web.
+
 ### Funcionalidades
 * **Interatividade em 360°:** A malha 3D reage aos movimentos de clique e arrasto (*drag*) do ponteiro de forma fluida nos eixos X e Y.
 * **Física e Inércia (Lerp):** Implementação de cálculos de atrito e desaceleração para garantir um movimento contínuo e natural após a liberação do mouse.
